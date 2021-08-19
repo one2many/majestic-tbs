@@ -63,8 +63,8 @@ sections:
   - type: cta_section
     title: Make a Change
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Petition by Apple is not a real iOS application, but we included a
+      download button here anyways.
     actions:
       - label: Learn More
         url: /features
