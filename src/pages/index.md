@@ -42,10 +42,11 @@ sections:
             url: /features
             style: secondary
       - title: Feature 3
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          If you get fired up during a meeting, petition now works with the
+          remote control Apple service.  You can easily create a petition and
+          type out your manifestor under the table and then slide it over to
+          your laptop to promote on social, Slack, or email.
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
