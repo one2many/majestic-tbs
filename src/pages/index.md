@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Petition
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: "Are you tired of being ignored?\_ Make a change with Petition by Apple."
     actions:
       - label: Learn More
         url: /features
