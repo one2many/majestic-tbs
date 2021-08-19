@@ -5,9 +5,6 @@ sections:
     title: Petition
     subtitle: "Are you tired of being ignored?\_ Make a change with Petition by Apple."
     actions:
-      - label: Learn More
-        url: /features
-        style: primary
       - label: Contact Us
         url: /contact
         style: secondary
