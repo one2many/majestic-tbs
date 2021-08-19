@@ -27,7 +27,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Feature 2
+      - title: Change.org Integration
         content: >
           Seemless integration with change.org helps take your local petition to
           the next level.   Whether it is protesting a school board decision or
