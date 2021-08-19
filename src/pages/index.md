@@ -66,7 +66,7 @@ sections:
       Petition by Apple is not a real iOS application, but we included a
       download button here anyways.
     actions:
-      - label: Learn More
+      - label: Download
         url: /features
         style: primary
     has_background: true
