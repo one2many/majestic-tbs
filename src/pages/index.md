@@ -28,10 +28,11 @@ sections:
             url: /features
             style: secondary
       - title: Feature 2
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Seemless integration with change.org helps take your local petition to
+          the next level.   Whether it is protesting a school board decision or
+          a company policy, promote the petition on change.org across social
+          channels and watch your influence grow. 
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
