@@ -4,10 +4,7 @@ sections:
   - type: hero_section
     title: Petition
     subtitle: "Are you tired of being ignored?\_ Make a change with Petition by Apple."
-    actions:
-      - label: Contact Us
-        url: /contact
-        style: secondary
+    actions: []
     align: center
     image_alt: Hero placeholder image
     image_position: right
