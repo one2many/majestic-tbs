@@ -68,7 +68,7 @@ sections:
     actions:
       - label: Download Petition
         url: /
-        style: primary
+        style: secondary
     has_background: true
     background_color: gray
 seo:
