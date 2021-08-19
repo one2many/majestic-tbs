@@ -53,7 +53,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: /features
+            url: /download
             style: secondary
   - type: blog_feed_section
     title: What's New
