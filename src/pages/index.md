@@ -41,7 +41,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Feature 3
+      - title: Remote Control
         content: >
           If you get fired up during a meeting, petition now works with the
           remote control Apple service.  You can easily create a petition and
