@@ -67,7 +67,7 @@ sections:
       download button here anyways.
     actions:
       - label: Download Petition
-        url: /features
+        url: /
         style: primary
     has_background: true
     background_color: gray
