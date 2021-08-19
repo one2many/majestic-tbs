@@ -79,7 +79,7 @@ sections:
     background_color: gray
 seo:
   title: Petition by Apple
-  description: The preview of the Starter theme
+  description: Make a change with Petition
   extra:
     - name: 'og:type'
       value: website
