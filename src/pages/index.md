@@ -25,7 +25,7 @@ sections:
         image_position: right
         actions:
           - label: Download
-            url: /features
+            url: /
             style: secondary
       - title: Change.org Integration
         content: >
