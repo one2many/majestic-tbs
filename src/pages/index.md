@@ -44,9 +44,9 @@ sections:
       - title: Universal Control
         content: >
           If you get fired up during a meeting, petition now works with the
-          remote control Apple service.  You can easily create a petition and
-          type out your manifestor under the table and then slide it over to
-          your laptop to promote on social, Slack, or email.
+          universal control Apple service.  You can easily create a petition and
+          type out your manifesto under the table and then slide it over to your
+          laptop to promote on social, Slack, or email.
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
