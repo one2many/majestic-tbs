@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Petition by Apple
+    title: Petition
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
