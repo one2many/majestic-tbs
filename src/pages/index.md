@@ -34,7 +34,7 @@ sections:
           a company policy, promote the petition on change.org across social
           channels and watch your influence grow. 
         align: left
-        image: images/feature.svg
+        image: images/Screen Shot 2021-08-19 at 1.38.37 PM.png
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
