@@ -17,7 +17,7 @@ sections:
   - type: features_section
     title: Features
     features:
-      - title: Feature 1
+      - title: Smart Templates
         content: "Create an instant petition with smart templates. Help your company determine who should be promoted or hired and who should be fired and why.  You have the power to create change because every company is a democracy, ruled by majority or the loudest minority.  If you don't create a petition and let your company know how you feel, you only have yourself to blame for your unhappiness.\n\nApple now uses Petition for all hiring and firing decisions, many product designs, and even answers at the Genius Bar.\_\n"
         align: left
         image: images/feature.svg
