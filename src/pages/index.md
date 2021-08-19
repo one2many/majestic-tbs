@@ -48,7 +48,7 @@ sections:
           type out your manifesto under the table and then slide it over to your
           laptop to promote on social, Slack, or email.
         align: left
-        image: images/feature.svg
+        image: images/macos-monterey-universal-control-100891661-large.webp
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
