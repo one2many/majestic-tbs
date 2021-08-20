@@ -56,8 +56,8 @@ sections:
             url: /
             style: secondary
   - title: What People are Saying
-    content: >+
-      > "Petition is the solution built for the successor generation by the
+    content: >
+      > "Petition is the only solution built for the successor generation by the
       successor generation.  If you can't cancel someone with Petition, you
       might want to look in the mirror and see if you are focusing on the right
       person."
@@ -65,7 +65,6 @@ sections:
       >
 
       > Cancel Magazine October 2020
-
     type: content_section
   - type: cta_section
     title: Make a Change
