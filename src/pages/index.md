@@ -105,7 +105,7 @@ seo:
     - name: 'twitter:title'
       value: Petition by Apple
     - name: 'twitter:image'
-      value: images/starter-preview.png
+      value: images/Screen Shot 2021-08-19 at 1.38.37 PM-afe89b24.png
       relativeUrl: true
 template: advanced
 ---
