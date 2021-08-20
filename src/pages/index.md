@@ -55,17 +55,6 @@ sections:
           - label: Download
             url: /
             style: secondary
-  - type: cta_section
-    title: Make a Change
-    subtitle: >-
-      Petition by Apple is not a real iOS application, but we included a
-      download button here anyways.
-    actions:
-      - label: Download Petition
-        url: /
-        style: secondary
-    has_background: true
-    background_color: gray
   - title: lorem-ipsum
     content: >-
       ## Lorem ipsum
@@ -79,6 +68,17 @@ sections:
 
       - dolor sit amet
     type: content_section
+  - type: cta_section
+    title: Make a Change
+    subtitle: >-
+      Petition by Apple is not a real iOS application, but we included a
+      download button here anyways.
+    actions:
+      - label: Download Petition
+        url: /
+        style: secondary
+    has_background: true
+    background_color: gray
 seo:
   title: Petition by Apple
   description: Make a change with Petition
