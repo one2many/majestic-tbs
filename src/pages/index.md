@@ -97,7 +97,7 @@ seo:
       value: Petition by Apple
       keyName: property
     - name: 'og:image'
-      value: images/starter-preview.png
+      value: images/Screen Shot 2021-08-19 at 1.38.37 PM-6affafd9.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
