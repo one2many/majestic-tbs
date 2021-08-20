@@ -55,7 +55,7 @@ sections:
           - label: Download
             url: /
             style: secondary
-  - title: lorem-ipsum
+  - title: What People are Saying
     content: >-
       ## Lorem ipsum
 
