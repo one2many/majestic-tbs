@@ -56,17 +56,16 @@ sections:
             url: /
             style: secondary
   - title: What People are Saying
-    content: >-
-      ## Lorem ipsum
+    content: >+
+      > "Petition is the solution built for the successor generation by the
+      successor generation.  If you can't cancel someone with Petition, you
+      might want to look in the mirror and see if you are focusing on the right
+      person."
 
+      >
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      > Cancel Magazine October 2020
 
-
-      - Lorem ipsum
-
-      - dolor sit amet
     type: content_section
   - type: cta_section
     title: Make a Change
