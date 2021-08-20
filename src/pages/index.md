@@ -57,6 +57,15 @@ sections:
             style: secondary
   - title: What People are Saying
     content: >
+      > "Scientific knowledge can be overturned by majority vote"
+
+      >
+
+      > Plato
+
+
+
+
       > "Petition is the only solution built for the successor generation by the
       successor generation.  If you can't cancel someone with Petition, you
       might want to look in the mirror and see if you are focusing on the right
