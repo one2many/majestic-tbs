@@ -107,5 +107,10 @@ seo:
     - name: 'twitter:image'
       value: images/Screen Shot 2021-08-19 at 1.38.37 PM-afe89b24.png
       relativeUrl: true
+    - name: 'twitter:description'
+      value: |
+        Make a change with petition
+      keyName: name
+      relativeUrl: false
 template: advanced
 ---
