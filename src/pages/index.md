@@ -96,9 +96,6 @@ seo:
     - name: 'og:title'
       value: Petition by Apple
       keyName: property
-    - name: 'og:description'
-      value: The preview of the Starter theme
-      keyName: property
     - name: 'og:image'
       value: images/starter-preview.png
       keyName: property
